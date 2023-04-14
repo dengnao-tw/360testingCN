@@ -11,7 +11,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://360Testing.cn",
+  url: "https://docusaurus-demo.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "dengnao-tw", // Usually your GitHub org/user name.
   projectName: "docusaurus-demo", // Usually your repo name.
-  deploymentBranch: 'gh-pages', // Usually your repo branch.
+  deploymentBranch: "gh-pages", // Usually your repo branch.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

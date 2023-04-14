@@ -7,7 +7,7 @@ export default {
   "title": "360Testing",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://360Testing.cn",
+  "url": "https://docusaurus-demo.github.io",
   "baseUrl": "/",
   "organizationName": "dengnao-tw",
   "projectName": "docusaurus-demo",
