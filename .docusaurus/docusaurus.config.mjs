@@ -11,6 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "dengnao-tw",
   "projectName": "docusaurus-demo",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
