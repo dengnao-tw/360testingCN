@@ -5,7 +5,7 @@
  */
 export default {
   "title": "360Testing",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "专注于 QA 领域，但不仅限于 QA 领域，分享一些自己的笔记和感悟",
   "favicon": "img/favicon.ico",
   "url": "https://docusaurus-demo.github.io",
   "baseUrl": "/",
@@ -15,9 +15,9 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "zh-Hans",
     "locales": [
-      "en"
+      "zh-Hans"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -111,7 +111,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 360Testing, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
